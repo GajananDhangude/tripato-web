@@ -37,6 +37,9 @@ async function getListing(req , res){
 }
 
 
+
+
+
 module.exports = {
     getAllListings,
     getListing
